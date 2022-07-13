@@ -4,6 +4,7 @@ import { Post } from './Components/Post';
 import styles from './app.module.css';
 import './global.css';
 import { Sidebar } from './components/Sidebar';
+import { Comment } from './components/Comment';
 
 export function App() {
   return (
